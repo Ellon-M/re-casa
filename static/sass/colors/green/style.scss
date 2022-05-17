@@ -1,0 +1,203 @@
+//Core mixins
+@import "../../mixins/mixins";
+@import "variables";
+a {
+	color: $primary-color;
+	&:hover, &:focus {
+		color: inherit;
+	}
+}
+.label {
+	a {
+		&:hover, &:focus {
+			color: $primary-color;
+		}
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	@extend .label;
+}
+.btn-default {
+	&:hover, &:focus {
+		border-color: $primary-color;
+		color: $primary-color;
+	}
+}
+
+.btn-primary {
+	background-color: $primary-color;
+	border-color: $primary-color;
+	&:hover, &:focus {
+		background-color: $dark-color;
+		border-color: $dark-color;
+	}
+}
+.logo {
+	background: $primary-color;
+}
+.nav-top {
+	> li {
+		> a {
+			&:hover, &:focus {
+				background-color: $primary-color;
+			}
+		}
+	}
+}
+
+/* pgl-navbar-main */
+.dropdown-menu {
+	> li {
+		> a {
+			&:hover, &:focus {
+				background-color: $primary-color;
+			}
+		}
+	}
+	> .active > a, > .active > a:hover, > .active > a:focus {
+		background-color: $primary-color;
+	}
+}
+.pgl-navbar-main {
+	.navbar-nav {
+		> .active > a, > .active > a:hover, > .active > a:focus {
+			color: $primary-color;
+		}
+	}
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+	background-color: $primary-color;
+}
+.navbar-default .navbar-toggle {
+	&:hover, &:focus {
+		.icon-bar {
+			background-color: $primary-color;
+		}
+	}
+	
+}
+/* pgl-property-detail */
+.price {
+	background-color: $primary-color;
+}
+.featured-item {
+	h3 {
+		@extend .label;
+	}
+}
+.pgl-main-slide {
+	.owl-controls {
+		&.clickable .owl-buttons div {
+			&:hover, &:focus {
+				background-color: $primary-color;
+			}
+		}
+	}
+}
+/* list-cat */
+.list-cat {
+	@extend .label;
+}
+.second-tabs {
+	li {
+		&.active {
+			&:after {
+				border-top-color: $primary-color;
+			}
+			a {
+				background-color: $primary-color;
+				&:hover, &:focus {
+					background-color: $primary-color;
+				}
+			}
+		}
+	}/* end li */
+}
+.pgl-img-slide {
+	.owl-controls {
+		.owl-buttons div {
+			.icons {
+				&:hover {
+					background-color: $primary-color;
+					border-color: $primary-color;
+				}
+			}
+		}
+	}
+}
+.offer-item {
+	h3 {
+		color: $primary-color;
+	}
+	&:after {
+		background-color: $primary-color;
+	}
+}
+.pgl-offer.pgl-bg-dark {
+	.offer-item {
+		&:hover {
+			h3 {
+				color: $primary-color;
+			}
+		}
+	}
+}
+.social-links {
+	a {
+		&:hover, &:focus {
+			border-color: $primary-color;
+			color: $primary-color;
+		}
+	}
+}
+.pgl-team-info {
+	a {
+		&:hover, &:focus {
+			border-bottom-color: $primary-color;
+			color: $primary-color;
+		}
+	}
+}
+.flex-direction-nav {
+	a {
+		&:hover, &:focus {
+			border-color: $primary-color;
+			color: $primary-color;
+		}
+	}
+}
+.post-date {
+	background-color: $primary-color;
+}
+.post-content {
+	.post-meta {
+		@extend .label;
+	}
+}
+.post-info {
+	@extend .label;
+}
+.post-action {
+	@extend .label;
+}
+/* testimonial */
+.pgl-testimonial {
+	h4 {
+		color: $primary-color;
+	}
+}
+.pgl-upper-foot {
+	@extend .label;
+}
+.pgl-copyrights {
+	a {
+		color: $primary-color;
+	}
+}
+/* Scroll to Top */
+.scroll-to-top {
+	&:hover, &:focus {
+		background-color: $primary-color;
+	}
+}

@@ -1,0 +1,154 @@
+/* line 4, ../../../sass/colors/violet/style.scss */
+a {
+  color: #c578c8;
+}
+/* line 6, ../../../sass/colors/violet/style.scss */
+a:hover, a:focus {
+  color: inherit;
+}
+
+/* line 12, ../../../sass/colors/violet/style.scss */
+.label a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .featured-item h3 a:hover, .list-cat a:hover, .post-content .post-meta a:hover, .post-info a:hover, .post-action a:hover, .pgl-upper-foot a:hover, .label a:focus, h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus, .featured-item h3 a:focus, .list-cat a:focus, .post-content .post-meta a:focus, .post-info a:focus, .post-action a:focus, .pgl-upper-foot a:focus {
+  color: #c578c8;
+}
+
+/* line 22, ../../../sass/colors/violet/style.scss */
+.btn-default:hover, .btn-default:focus {
+  border-color: #c578c8;
+  color: #c578c8;
+}
+
+/* line 28, ../../../sass/colors/violet/style.scss */
+.btn-primary {
+  background-color: #c578c8;
+  border-color: #c578c8;
+}
+/* line 31, ../../../sass/colors/violet/style.scss */
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #333;
+  border-color: #333;
+}
+
+/* line 36, ../../../sass/colors/violet/style.scss */
+.logo {
+  background: #c578c8;
+}
+
+/* line 42, ../../../sass/colors/violet/style.scss */
+.nav-top > li > a:hover, .nav-top > li > a:focus {
+  background-color: #c578c8;
+}
+
+/* pgl-navbar-main */
+/* line 53, ../../../sass/colors/violet/style.scss */
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  background-color: #c578c8;
+}
+/* line 58, ../../../sass/colors/violet/style.scss */
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+  background-color: #c578c8;
+}
+
+/* line 64, ../../../sass/colors/violet/style.scss */
+.pgl-navbar-main .navbar-nav > .active > a, .pgl-navbar-main .navbar-nav > .active > a:hover, .pgl-navbar-main .navbar-nav > .active > a:focus {
+  color: #c578c8;
+}
+
+/* line 69, ../../../sass/colors/violet/style.scss */
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+  background-color: #c578c8;
+}
+
+/* line 74, ../../../sass/colors/violet/style.scss */
+.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
+  background-color: #c578c8;
+}
+
+/* pgl-property-detail */
+/* line 81, ../../../sass/colors/violet/style.scss */
+.price {
+  background-color: #c578c8;
+}
+
+/* line 92, ../../../sass/colors/violet/style.scss */
+.pgl-main-slide .owl-controls.clickable .owl-buttons div:hover, .pgl-main-slide .owl-controls.clickable .owl-buttons div:focus {
+  background-color: #c578c8;
+}
+
+/* list-cat */
+/* line 102, ../../../sass/colors/violet/style.scss */
+.second-tabs {
+  /* end li */
+}
+/* line 105, ../../../sass/colors/violet/style.scss */
+.second-tabs li.active:after {
+  border-top-color: #c578c8;
+}
+/* line 108, ../../../sass/colors/violet/style.scss */
+.second-tabs li.active a {
+  background-color: #c578c8;
+}
+/* line 110, ../../../sass/colors/violet/style.scss */
+.second-tabs li.active a:hover, .second-tabs li.active a:focus {
+  background-color: #c578c8;
+}
+
+/* line 121, ../../../sass/colors/violet/style.scss */
+.pgl-img-slide .owl-controls .owl-buttons div .icons:hover {
+  background-color: #c578c8;
+  border-color: #c578c8;
+}
+
+/* line 130, ../../../sass/colors/violet/style.scss */
+.offer-item h3 {
+  color: #c578c8;
+}
+/* line 133, ../../../sass/colors/violet/style.scss */
+.offer-item:after {
+  background-color: #c578c8;
+}
+
+/* line 140, ../../../sass/colors/violet/style.scss */
+.pgl-offer.pgl-bg-dark .offer-item:hover h3 {
+  color: #c578c8;
+}
+
+/* line 148, ../../../sass/colors/violet/style.scss */
+.social-links a:hover, .social-links a:focus {
+  border-color: #c578c8;
+  color: #c578c8;
+}
+
+/* line 156, ../../../sass/colors/violet/style.scss */
+.pgl-team-info a:hover, .pgl-team-info a:focus {
+  border-bottom-color: #c578c8;
+  color: #c578c8;
+}
+
+/* line 164, ../../../sass/colors/violet/style.scss */
+.flex-direction-nav a:hover, .flex-direction-nav a:focus {
+  border-color: #c578c8;
+  color: #c578c8;
+}
+
+/* line 170, ../../../sass/colors/violet/style.scss */
+.post-date {
+  background-color: #c578c8;
+}
+
+/* testimonial */
+/* line 186, ../../../sass/colors/violet/style.scss */
+.pgl-testimonial h4 {
+  color: #c578c8;
+}
+
+/* line 194, ../../../sass/colors/violet/style.scss */
+.pgl-copyrights a {
+  color: #c578c8;
+}
+
+/* Scroll to Top */
+/* line 200, ../../../sass/colors/violet/style.scss */
+.scroll-to-top:hover, .scroll-to-top:focus {
+  background-color: #c578c8;
+}

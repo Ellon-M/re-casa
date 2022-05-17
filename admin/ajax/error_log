@@ -1,0 +1,8 @@
+[29-Jun-2021 17:05:48 Africa/Nairobi] PHP Warning:  unlink(/home/casaveni/public_html/admin/ajax/../seller/id/60db0c6f1a78cfor sale sign.jpg): No such file or directory in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 548
+[02-Jul-2021 12:31:51 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/casaveni/public_html/app/src/Processors/DBConnect.php on line 11
+[02-Jul-2021 12:31:51 Africa/Nairobi] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 919
+[02-Jul-2021 12:31:51 Africa/Nairobi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 953
+[02-Jul-2021 12:31:51 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 956
+[17-Jul-2021 09:17:29 Africa/Nairobi] PHP Warning:  Invalid argument supplied for foreach() in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 187
+[17-Jul-2021 20:42:43 Africa/Nairobi] PHP Warning:  unlink(/home/casaveni/public_html/admin/ajax/..): Is a directory in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 548
+[08-Sep-2021 10:48:41 Africa/Nairobi] PHP Warning:  unlink(/home/casaveni/public_html/admin/ajax/../../PropertyImages/613869596efdd5.jpg): No such file or directory in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 188

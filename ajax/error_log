@@ -1,0 +1,20 @@
+[02-Jul-2021 15:57:34 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/casaveni/public_html/app/src/Processors/DBConnect.php on line 11
+[02-Jul-2021 15:57:34 Africa/Nairobi] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 874
+[02-Jul-2021 15:57:34 Africa/Nairobi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 908
+[02-Jul-2021 15:57:34 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 911
+[02-Jul-2021 15:57:41 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/casaveni/public_html/app/src/Processors/DBConnect.php on line 11
+[02-Jul-2021 15:57:41 Africa/Nairobi] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 874
+[02-Jul-2021 15:57:41 Africa/Nairobi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 908
+[02-Jul-2021 15:57:41 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 911
+[02-Jul-2021 15:57:52 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/casaveni/public_html/app/src/Processors/DBConnect.php on line 11
+[02-Jul-2021 15:57:52 Africa/Nairobi] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 874
+[02-Jul-2021 15:57:52 Africa/Nairobi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 908
+[02-Jul-2021 15:57:52 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 911
+[02-Jul-2021 15:58:07 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/casaveni/public_html/app/src/Processors/DBConnect.php on line 11
+[02-Jul-2021 15:58:07 Africa/Nairobi] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 874
+[02-Jul-2021 15:58:07 Africa/Nairobi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 908
+[02-Jul-2021 15:58:07 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 911
+[02-Jul-2021 16:03:54 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/casaveni/public_html/app/src/Processors/DBConnect.php on line 11
+[02-Jul-2021 16:03:54 Africa/Nairobi] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 874
+[02-Jul-2021 16:03:54 Africa/Nairobi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 908
+[02-Jul-2021 16:03:54 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/casaveni/public_html/app/src/Processors/UserFunctions.php on line 911

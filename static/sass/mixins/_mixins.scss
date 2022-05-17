@@ -1,0 +1,49 @@
+@import "../variables";
+
+@mixin transition($transition...) {
+  -webkit-transition: $transition;
+       -o-transition: $transition;
+          transition: $transition;
+}
+@mixin transition-transform($transition...) {
+  -webkit-transition: -webkit-transform $transition;
+     -moz-transition: -moz-transform $transition;
+       -o-transition: -o-transform $transition;
+          transition: transform $transition;
+}
+@mixin translate3d($x, $y, $z) {
+  -webkit-transform: translate3d($x, $y, $z);
+          transform: translate3d($x, $y, $z);
+}
+@mixin transition-delay($transition-delay) {
+  -webkit-transition-delay: $transition-delay;
+          transition-delay: $transition-delay;
+}
+@mixin transition-duration($transition-duration...) {
+  -webkit-transition-duration: $transition-duration;
+          transition-duration: $transition-duration;
+}
+@mixin bg-shadow {
+	@include transition(all .2s ease-in-out);
+	-webkit-box-shadow: 1px 1px 5px rgba(black,.2); // iOS <4.3 & Android <4.1
+	box-shadow: 1px 1px 5px rgba(black,.2);
+}
+
+@mixin arrow-down {
+	bottom: -5px;
+	height: 0;
+	border-top: 5px solid $primary-color;
+	border-left: 5px solid rgba(0,0,0,0);
+	border-right: 5px solid rgba(0,0,0,0);
+	content: "";
+	left: 50%;
+	margin-left: -5px;
+	position: absolute;
+	width: 0;
+}
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  // IE8 filter
+  $opacity-ie: ($opacity * 100);
+  filter: #{alpha(opacity=$opacity-ie)};
+}

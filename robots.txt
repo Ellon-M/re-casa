@@ -1,0 +1,11 @@
+# robots.txt file v1
+# created June 7th, 2021
+
+User-agent: *
+Disallow: /admin/
+Disallow: /app/
+
+# adsbot ignores robots.txt unless specifically named
+User-agent: adsbot-google
+Disallow: /admin/
+Disallow: /app/

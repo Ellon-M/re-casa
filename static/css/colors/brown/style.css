@@ -1,0 +1,154 @@
+/* line 4, ../../../sass/colors/brown/style.scss */
+a {
+  color: #8a745f;
+}
+/* line 6, ../../../sass/colors/brown/style.scss */
+a:hover, a:focus {
+  color: inherit;
+}
+
+/* line 12, ../../../sass/colors/brown/style.scss */
+.label a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .featured-item h3 a:hover, .list-cat a:hover, .post-content .post-meta a:hover, .post-info a:hover, .post-action a:hover, .pgl-upper-foot a:hover, .label a:focus, h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus, .featured-item h3 a:focus, .list-cat a:focus, .post-content .post-meta a:focus, .post-info a:focus, .post-action a:focus, .pgl-upper-foot a:focus {
+  color: #8a745f;
+}
+
+/* line 22, ../../../sass/colors/brown/style.scss */
+.btn-default:hover, .btn-default:focus {
+  border-color: #8a745f;
+  color: #8a745f;
+}
+
+/* line 28, ../../../sass/colors/brown/style.scss */
+.btn-primary {
+  background-color: #8a745f;
+  border-color: #8a745f;
+}
+/* line 31, ../../../sass/colors/brown/style.scss */
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #333;
+  border-color: #333;
+}
+
+/* line 36, ../../../sass/colors/brown/style.scss */
+.logo {
+  background: #8a745f;
+}
+
+/* line 42, ../../../sass/colors/brown/style.scss */
+.nav-top > li > a:hover, .nav-top > li > a:focus {
+  background-color: #8a745f;
+}
+
+/* pgl-navbar-main */
+/* line 53, ../../../sass/colors/brown/style.scss */
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  background-color: #8a745f;
+}
+/* line 58, ../../../sass/colors/brown/style.scss */
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+  background-color: #8a745f;
+}
+
+/* line 64, ../../../sass/colors/brown/style.scss */
+.pgl-navbar-main .navbar-nav > .active > a, .pgl-navbar-main .navbar-nav > .active > a:hover, .pgl-navbar-main .navbar-nav > .active > a:focus {
+  color: #8a745f;
+}
+
+/* line 69, ../../../sass/colors/brown/style.scss */
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+  background-color: #8a745f;
+}
+
+/* line 74, ../../../sass/colors/brown/style.scss */
+.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
+  background-color: #8a745f;
+}
+
+/* pgl-property-detail */
+/* line 81, ../../../sass/colors/brown/style.scss */
+.price {
+  background-color: #8a745f;
+}
+
+/* line 92, ../../../sass/colors/brown/style.scss */
+.pgl-main-slide .owl-controls.clickable .owl-buttons div:hover, .pgl-main-slide .owl-controls.clickable .owl-buttons div:focus {
+  background-color: #8a745f;
+}
+
+/* list-cat */
+/* line 102, ../../../sass/colors/brown/style.scss */
+.second-tabs {
+  /* end li */
+}
+/* line 105, ../../../sass/colors/brown/style.scss */
+.second-tabs li.active:after {
+  border-top-color: #8a745f;
+}
+/* line 108, ../../../sass/colors/brown/style.scss */
+.second-tabs li.active a {
+  background-color: #8a745f;
+}
+/* line 110, ../../../sass/colors/brown/style.scss */
+.second-tabs li.active a:hover, .second-tabs li.active a:focus {
+  background-color: #8a745f;
+}
+
+/* line 121, ../../../sass/colors/brown/style.scss */
+.pgl-img-slide .owl-controls .owl-buttons div .icons:hover {
+  background-color: #8a745f;
+  border-color: #8a745f;
+}
+
+/* line 130, ../../../sass/colors/brown/style.scss */
+.offer-item h3 {
+  color: #8a745f;
+}
+/* line 133, ../../../sass/colors/brown/style.scss */
+.offer-item:after {
+  background-color: #8a745f;
+}
+
+/* line 140, ../../../sass/colors/brown/style.scss */
+.pgl-offer.pgl-bg-dark .offer-item:hover h3 {
+  color: #8a745f;
+}
+
+/* line 148, ../../../sass/colors/brown/style.scss */
+.social-links a:hover, .social-links a:focus {
+  border-color: #8a745f;
+  color: #8a745f;
+}
+
+/* line 156, ../../../sass/colors/brown/style.scss */
+.pgl-team-info a:hover, .pgl-team-info a:focus {
+  border-bottom-color: #8a745f;
+  color: #8a745f;
+}
+
+/* line 164, ../../../sass/colors/brown/style.scss */
+.flex-direction-nav a:hover, .flex-direction-nav a:focus {
+  border-color: #8a745f;
+  color: #8a745f;
+}
+
+/* line 170, ../../../sass/colors/brown/style.scss */
+.post-date {
+  background-color: #8a745f;
+}
+
+/* testimonial */
+/* line 186, ../../../sass/colors/brown/style.scss */
+.pgl-testimonial h4 {
+  color: #8a745f;
+}
+
+/* line 194, ../../../sass/colors/brown/style.scss */
+.pgl-copyrights a {
+  color: #8a745f;
+}
+
+/* Scroll to Top */
+/* line 200, ../../../sass/colors/brown/style.scss */
+.scroll-to-top:hover, .scroll-to-top:focus {
+  background-color: #8a745f;
+}

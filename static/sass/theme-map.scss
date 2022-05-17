@@ -1,0 +1,67 @@
+//Core mixins
+@import "mixins/mixins";
+
+
+.marker {
+	-webkit-transition: margin-top 0.2s linear, padding-bottom 0.2s linear;
+	-moz-transition: margin-top 0.2s linear, padding-bottom 0.2s linear;
+	-ms-transition: margin-top 0.2s linear, padding-bottom 0.2s linear;
+	transition: margin-top 0.2s linear, padding-bottom 0.2s linear;
+	background-image: url("../images/makers/marker.png");
+	background-position: center top;
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 26px
+}
+.marker:hover {
+	margin-top: -10px;
+	padding-bottom: 10px;
+}
+.infobox {
+	color: $light-color;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.272em;
+	zoom: 1;
+	position: relative;
+	width: 270px;
+	.property-thumb-info {
+		width: 100%;
+	}
+}
+.infobox:after {
+	height: 0;
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden
+}
+.infobox:before {
+	bottom: -16px;
+	border: 8px solid transparent;
+	border-top-color: #fff;
+	content: '';
+	height: 0px;
+	margin-left: -8px;
+	left: 50%;
+	position: absolute;
+	width: 0px;
+	z-index: 100
+}
+.amenities li:empty {
+    display: none;
+}
+.close-info {
+	background: #fff;
+    color: #000;
+    display: block;
+    font-size: 18px;
+    height: 20px;
+    line-height: 16px;
+	@include opacity(.8);
+    position: absolute;
+    right: 10px;
+    text-align: center;
+    top: 10px;
+    width: 20px;
+    z-index: 2;
+}

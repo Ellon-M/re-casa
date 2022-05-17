@@ -1,0 +1,25 @@
+{
+    "name": "m3n/casavenida",
+    "description": "Casavenida apis",
+    "type": "project",
+    "license": "Casavenida",
+    "authors": [
+        {
+            "name": "Ian Kyalo",
+            "email": "iankay777@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "monolog/monolog": "2.x-dev",
+        "ext-mysqli": "*",
+        "fzaninotto/faker": "1.9.x-dev",
+        "ext-json": "*",
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
